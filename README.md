@@ -1,2 +1,2 @@
 # argocd-demo
-Argocd Demo
+Argocd Demo from Just me and Opensource
