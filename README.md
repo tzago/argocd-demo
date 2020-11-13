@@ -1,0 +1,2 @@
+# argocd-demo
+Argocd Demo
